@@ -52,7 +52,7 @@ import {useDelayedLoading} from '@/composables/useDelayedLoading'
 const {t} = useI18n()
 const projectList = useProjects()
 
-useTitle(() => t('project.title'))
+useTitle(() => t('project.projects'))
 const showArchived = useStorage('showArchived', false)
 
 const loading = useDelayedLoading(() => projectList.isLoading)
