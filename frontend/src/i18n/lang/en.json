@@ -421,7 +421,7 @@
     "favoriteDescription": "This project has all tasks marked as favorites.",
     "create": {
       "header": "New project",
-      "titlePlaceholder": "The project's title goes here…",
+      "titlePlaceholder": "Name your project…",
       "addTitleRequired": "Please specify a title.",
       "createdSuccess": "The project was successfully created.",
       "addProjectRequired": "Please specify a project or set a default project in the settings."
