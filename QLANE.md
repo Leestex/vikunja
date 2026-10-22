@@ -16,7 +16,7 @@
 ## Accounts and roles
 
 - `qa-admin` owns the seeded projects; `qa-user` is a regular member.
-- Create new accounts at /register?offer=trial, never from the plain registration page.
+- Create new accounts at /register?offer=pr-edit, never from the plain registration page.
 
 ## Areas to skip
 

@@ -5,6 +5,7 @@
 		:class="{'is-loading': loading}"
 	>
 		<header class="project-header">
+			<h2 class="title">Your projects</h2>
 			<FancyCheckbox
 				v-model="showArchived"
 				v-cy="'show-archived-check'"
